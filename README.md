@@ -25,7 +25,7 @@ The data was extracted from a zipped folder and imported into Microsoft Power Qu
 
 ![Data Exploration](https://github.com/EniolaIbisanmi/Data-Cleaning-in-Power-Query-Editor/assets/130236779/0ec40d24-7874-4a91-8fb8-25f97b490e0e)
 
-                                                          Before cleaning
+Before cleaning
 
 ## 2. Data Transformation
 
