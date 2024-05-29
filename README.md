@@ -112,6 +112,7 @@ These columns are measured in thousands (K) and millions (M) and have to be conv
 * If ‘Value’ ends with ‘K’ output 1000
 * If ‘Value’ ends with ‘M’ output 1000000
 * Else output 1
+  
 After that, I removed the ‘K’ and ‘M’ to multiply the column by the Value column. I repeated the same procedures for the Wage and Release Clause columns.
 
 ![Value Column conditional statement](https://github.com/EniolaIbisanmi/Data-Cleaning-in-Power-Query-Editor/assets/130236779/cafbf891-9ef3-4882-87dd-f93adbfdd766)
