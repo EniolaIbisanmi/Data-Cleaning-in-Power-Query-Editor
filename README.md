@@ -21,7 +21,7 @@ The objective of this data cleaning project is to perform data cleaning procedur
 
 ## 1. Data Exploration
 
-The data was extracted from a zipped folder and imported into Microsoft Power Query Editor via the ‘Get Data’ ribbon. After a successful upload, I previewed the first 200 rows to familiarize myself with the raw data. I noticed special characters in the Name, Club, Value, Wage, Release Clause, W/F, SM, A/W, D/W, and IR columns. To improve data quality, I changed the file origin to Unicode (UTF-8) encoding to eradicate the characters. I loaded the data and trimmed it to remove extra spaces.
+The data was extracted from a zipped folder and imported into Microsoft Power Query Editor via the ‘Get Data’ button. After a successful upload, I previewed the first 200 rows to familiarize myself with the raw data. I noticed special characters in the Name, Club, Value, Wage, Release Clause, W/F, SM, A/W, D/W, and IR columns. To improve data quality, I changed the file origin to Unicode (UTF-8) encoding to eradicate the characters. I loaded the data and trimmed it to remove extra spaces.
 
 ![Data Exploration](https://github.com/EniolaIbisanmi/Data-Cleaning-in-Power-Query-Editor/assets/130236779/0ec40d24-7874-4a91-8fb8-25f97b490e0e)
 
