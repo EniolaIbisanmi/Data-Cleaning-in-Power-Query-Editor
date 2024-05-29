@@ -6,7 +6,7 @@
 
 Every data analysis project starts with collecting relevant datasets. These datasets often contain errors that result in incorrect calculations and interpretations when carrying out analyses. Using error-filled datasets can skew analysis results and should be avoided at all costs.
 
-In this project, I will use the Microsoft Power Query Editor available in Excel and Power BI to clean a messy FIFA 21 dataset downloaded from Kaggle. I will remove special characters, irrelevant columns, extra spaces, and incorrect data types, and modify the dataset for further analysis. The link to the data source can be found [here](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring). The dataset also comes with a data dictionary that helps to understand the data for more seamless data cleansing.
+In this project, I will use the Microsoft Power Query Editor available in Excel and Power BI to clean a messy FIFA 21 dataset downloaded from Kaggle. I will remove special characters, irrelevant columns, extra spaces, and incorrect data types, and modify the dataset for further analysis. The link to the data source can be found [here](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring). The dataset also comes with a data dictionary to help understand the data for more seamless data cleansing.
 
 
 ## Overview of the Dataset
