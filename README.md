@@ -176,9 +176,7 @@ Loan End Date after
 
 # Conclusion
 
-Cleaning this FIFA 21 dataset shows that too many errors can be embedded in datasets and can end up disrupting the data analysis process. It can lead to incorrect calculations and interpretations. This highlights the importance of data cleaning as it prepares the data for further exploration and analysis. Data cleaning remains a crucial stage in any data analysis project. Here is the Thank you for reading!
-
-https://docs.google.com/spreadsheets/d/1kN1pKFUulugjFitUjh5-o-Q0VxcFbvKISR13rPA4zTs/edit?usp=sharing
+Cleaning this FIFA 21 dataset shows that too many errors can be embedded in datasets and can end up disrupting the data analysis process. It can lead to incorrect calculations and interpretations. This highlights the importance of data cleaning as it prepares the data for further exploration and analysis. Data cleaning remains a crucial stage in any data analysis project. You can find the cleaned dataset [here](https://docs.google.com/spreadsheets/d/1kN1pKFUulugjFitUjh5-o-Q0VxcFbvKISR13rPA4zTs/edit?usp=sharing).Thank you for reading!
 
 
 
